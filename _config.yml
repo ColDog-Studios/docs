@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ColDog Studios | Docs
+description: Various documentation for ColDog Studios projects.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://docs.coldogstudios.com
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+    Template Repository: https://github.com/ColDog-Studios/docs
