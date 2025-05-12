@@ -1,5 +1,5 @@
 ---
-title: UI Components
+title: Windows
 nav_order: 2
 ---
 
