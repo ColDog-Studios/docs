@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Troubleshooting
 parent: Windows
 nav_order: 1
