@@ -20,7 +20,7 @@ aux_links:
 
 color_scheme: dark
 
-footer_content: 'Copyright &copy; 2025 ColDog Studios. Distributed by an <a href="https://github.com/ColDog-Studios/docs/tree/main/LICENSE.txt">MIT License</a>.'
+footer_content: 'Copyright &copy; 2025 ColDog Studios. Distributed by an <a href="https://github.com/ColDog-Studios/docs/tree/main/LICENSE">MIT License</a>.'
 
 # Enable or disable the site search
 # Supports true (default) or false
