@@ -5,9 +5,11 @@ nav_order: 1
 ---
 
 # Troubleshooting
+
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
@@ -20,7 +22,8 @@ nav_order: 1
 ## Temporary User
 
 This issue occurs when:
-- The user's directory is removed from a domained computer
+
+- The user's directory is removed from a domain-joined computer
 - A virus or program edits the registry profile
 
 ### Fixes
