@@ -29,6 +29,23 @@ defaults:
     values:
       layout: "default"
 
+callouts_level: quiet # quiet | loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
