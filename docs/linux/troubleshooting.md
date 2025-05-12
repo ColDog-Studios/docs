@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Troubleshooting
 parent: Linux
 nav_order: 1

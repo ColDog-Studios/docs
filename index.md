@@ -1,6 +1,6 @@
 ---
-title: Home
 layout: home
+title: Home
 nav_order: 1
 description: "ColDog Studios Documentation compiled in one place"
 permalink: /

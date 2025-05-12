@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Troubleshooting
 parent: MacOS
 nav_order: 1

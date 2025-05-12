@@ -1,4 +1,5 @@
 ---
+layout: default
 title: MacOS
 nav_order: 4
 ---
