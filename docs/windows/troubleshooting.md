@@ -84,7 +84,7 @@ This issue occurs when:
 1. Open an elevated PowerShell
 2. Enter the prompt:
 ```powershell
-Add-Computer -WorkGroupName "NEW_WORKGROUP"`
+Add-Computer -WorkGroupName "NEW_WORKGROUP"
 ```
 3. Reboot the system
 
