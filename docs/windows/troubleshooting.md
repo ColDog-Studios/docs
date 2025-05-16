@@ -21,7 +21,7 @@ This issue occures when:
 
 - N/A
 
-### Fixes
+### Fix
 
 N/A
 
@@ -32,7 +32,7 @@ This issue occurs when:
 - The user's directory is removed from a domain-joined computer
 - A virus or program edits the registry profile
 
-### Fixes
+### Fix
 
 1. Log in as an administrator
 2. Open regedit.exe
@@ -52,7 +52,7 @@ This issue occurs when:
 
 - N/A - Unknown
 
-### Fixes
+### Fix 1
 
 1. Open an elevated PowerShell
 2. Enter the prompt:
@@ -61,7 +61,7 @@ Rename-Computer -NewName "NEW_PC_NAME"
 ```
 3. Reboot the system
 
-**OR**
+### Fix 2
 
 1. Open an elevated command prompt
 2. Enter the command:
@@ -79,7 +79,7 @@ This issue occurs when:
 
 - N/A - Unknown
 
-### Fixes
+### Fix 1
 
 1. Open an elevated PowerShell
 2. Enter the prompt:
@@ -88,7 +88,7 @@ Add-Computer -WorkGroupName "NEW_WORKGROUP"`
 ```
 3. Reboot the system
 
-**OR**
+### Fix 2
 
 1. Open an elevated command prompt
 2. Enter the command:
