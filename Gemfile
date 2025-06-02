@@ -8,4 +8,4 @@ gem "just-the-docs"        # always download the latest release
 
 gem "logger"
 
-gem "sass-embedded", "~> 1.78.0"
+gem "sass-embedded", "~> 1.89.1"
